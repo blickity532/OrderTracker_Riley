@@ -1,0 +1,6 @@
+@OrderTracker_Riley_HostAddress = http://localhost:5073
+
+GET {{OrderTracker_Riley_HostAddress}}/Customer/
+Accept: application/json
+
+###
